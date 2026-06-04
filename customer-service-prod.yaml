@@ -1,5 +1,5 @@
 customer:
-  message: "Welcome to MSEDCL bank customer related REST API -Prod"
+  message: "Welcome to MSEDCL bank customer related REST API -Production Sonfiguration"
 
   contact-details:
     name: "prajakta"
