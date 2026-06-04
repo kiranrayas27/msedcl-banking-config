@@ -1,0 +1,10 @@
+customer:
+  message: "Welcome to MSEDCL bank account related REST API - UAT"
+
+  contact-details:
+    name: "shamal"
+    email: "shamal@msedcl.in"
+
+  on-call-support:
+    - "1234567890"
+    - "7448796578"
