@@ -1,3 +1,4 @@
+#to see the changes when this file is changed, first on the postman, refresh the actuator http://localhost:8080/actuator/refresh
 build:
   version: "1.0"
 
