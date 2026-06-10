@@ -1,0 +1,9 @@
+#the below configuration should be kept in git as the url tends to change and we need to keep the configuration settings separate(github)
+eureka:
+  instance:
+    hostname: localhost
+  client:
+   fetch-registry: false
+   register-with-eureka: false
+   serviceUrl:
+    defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
