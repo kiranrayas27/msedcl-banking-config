@@ -1,4 +1,6 @@
 #the below configuration should be kept in git as the url tends to change and we need to keep the configuration settings separate(github)
+server:
+  port: 8070
 eureka:
   instance:
     hostname: localhost
